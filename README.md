@@ -1,99 +1,74 @@
- <div align="center">
-
-# Hi, I'm Promi 👋
-
-### Quantum Computing & Quantum Machine Learning Researcher
-
-Exploring quantum communication, variational quantum algorithms, and hybrid quantum-classical models.
-
-<br/>
-
-<a href="mailto:nurbinteehamid@gmail.com"><img src="https://img.shields.io/badge/Email-252B27?style=flat-square&logo=gmail&logoColor=B5C5AD" /></a>
-<a href="https://kaggle.com/nurjahanbinthamid"><img src="https://img.shields.io/badge/Kaggle-252B27?style=flat-square&logo=kaggle&logoColor=B5C5AD" /></a>
-<a href="https://codeforces.com/profile/promi_nh"><img src="https://img.shields.io/badge/Codeforces-252B27?style=flat-square&logo=codeforces&logoColor=B5C5AD" /></a>
-
-</div>
-
----
-
-## About Me
-
-- 🔬 Interested in Quantum Computing, Quantum Machine Learning, and Quantum Key Distribution.
-- 🌱 Exploring hybrid quantum-classical models and quantum algorithms.
-- 🧠 Working with machine learning, deep learning, and graph neural networks.
-- 🤝 Open to collaborating on quantum computing and AI/ML research.
-
----
-
-## Featured Projects
-
-### 1. Learned Eavesdropping on Entanglement-Based QKD
-
-[**View Repository →**](https://github.com/promihamid/qkd-qbac)
-
-- Exploring trainable quantum attack circuits (QCL and proposed Q-BAC) against the BBM92 protocol.
-- Studying Eve's attack on both arms of an entangled source.
-- Comparing attack performance with PCCM across a 30-condition noise grid.
-
-`Qiskit` `NumPy` `SciPy` `Quantum Cryptography` `QKD`
-
-### 2. PI-QGAT
-
-[**View Repository →**](https://github.com/promihamid/piqgata)
-
-- A 144-parameter hybrid quantum-classical graph neural network.
-- Designed for muon transverse-momentum regression using CMS trigger data.
-- Achieved an R² score of 0.84 on 707k test events, with under 4 μs per event.
-- Includes ablation studies of the quantum circuit, entanglement, and graph architecture.
-
-`JAX` `PennyLane` `QML` `GNN` `High Energy Physics`
-
----
-
-## Tech Stack
-
-**Quantum Computing & ML**
-
-<p>
-<img src="https://img.shields.io/badge/Qiskit-252B27?style=flat-square&logo=qiskit&logoColor=B5C5AD"/>
-<img src="https://img.shields.io/badge/PennyLane-252B27?style=flat-square&logoColor=B5C5AD"/>
-<img src="https://img.shields.io/badge/PyTorch-252B27?style=flat-square&logo=pytorch&logoColor=B5C5AD"/>
-<img src="https://img.shields.io/badge/TensorFlow-252B27?style=flat-square&logo=tensorflow&logoColor=B5C5AD"/>
-<img src="https://img.shields.io/badge/scikit--learn-252B27?style=flat-square&logo=scikitlearn&logoColor=B5C5AD"/>
-<img src="https://img.shields.io/badge/JAX-252B27?style=flat-square&logo=google&logoColor=B5C5AD"/>
-</p>
-
-**Programming & Tools**
-
-<p>
-<img src="https://img.shields.io/badge/Python-252B27?style=flat-square&logo=python&logoColor=B5C5AD"/>
-<img src="https://img.shields.io/badge/C-252B27?style=flat-square&logo=c&logoColor=B5C5AD"/>
-<img src="https://img.shields.io/badge/C++-252B27?style=flat-square&logo=cplusplus&logoColor=B5C5AD"/>
-<img src="https://img.shields.io/badge/Java-252B27?style=flat-square&logo=openjdk&logoColor=B5C5AD"/>
-<img src="https://img.shields.io/badge/NumPy-252B27?style=flat-square&logo=numpy&logoColor=B5C5AD"/>
-<img src="https://img.shields.io/badge/Pandas-252B27?style=flat-square&logo=pandas&logoColor=B5C5AD"/>
-<img src="https://img.shields.io/badge/MySQL-252B27?style=flat-square&logo=mysql&logoColor=B5C5AD"/>
-<img src="https://img.shields.io/badge/PostgreSQL-252B27?style=flat-square&logo=postgresql&logoColor=B5C5AD"/>
-</p>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=promihamid&show_icons=true&hide_border=true&bg_color=111412&title_color=A3B49A&text_color=C6CCC5&icon_color=8FA58A" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=promihamid&layout=compact&hide_border=true&bg_color=111412&title_color=A3B49A&text_color=C6CCC5" />
-
-<img src="https://streak-stats.demolab.com?user=promihamid&hide_border=true&background=111412&ring=A3B49A&fire=A3B49A&currStreakLabel=A3B49A&sideLabels=C6CCC5&currStreakNum=C6CCC5&sideNums=C6CCC5&dates=858D84" />
-
-</div>
-
----
-
-<div align="center">
-
-*Building, learning, and exploring one idea at a time.*
-
-</div>
+\<h1 align="center">Hi, I'm Promi 👋\</h1>\
+\<h3 align="center">Quantum Computing & Quantum Machine Learning Researcher\</h3>\
+\
+\<p align="center">\
+&#x20; Exploring quantum communication, variational quantum algorithms, and hybrid quantum–classical machine learning.\
+\</p>\
+\
+\<p align="center">\
+&#x20; \<a href="mailto:nurbinteehamid@gmail.com">\<img src="https\://img.shields.io/badge/Email-nurbinteehamid%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>\</a>\
+&#x20; \<a href="https\://kaggle.com/nurjahanbinthamid">\<img src="https\://img.shields.io/badge/Kaggle-nurjahanbinthamid-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/>\</a>\
+&#x20; \<a href="https\://codeforces.com/profile/promi_nh">\<img src="https\://img.shields.io/badge/Codeforces-promi__nh-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces"/>\</a>\
+\</p>\
+\
+\---\
+\## 🧑‍🔬 About Me\
+\
+\- 🧠 I work across \*\*Machine Learning, Deep Learning, and Quantum Computing\*\* with a focus on hybrid models that combine the two.\
+\- 📈 I enjoy designing compact, efficient deep learning models that perform well with limited resources.\
+\- 🔐 I also explore \*\*quantum cryptography\*\* and \*\*quantum machine learning\*\*, including quantum key distribution protocols, attack strategies and hybrid quantum–classical neural networks.\
+\- 👯 I'm open to collaboration on \*\*AI/ML, deep learning and quantum research\*\* projects.\
+\- ⚡ Outside research, I enjoy coffee, travelling and discovering new places.\
+\
+\---\
+\
+\## 🚀 Featured Projects\
+\
+\### 🔐 [Learned Eavesdropping on Entanglement-Based QKD]\(https\://github.com/promihamid/REPO-NAME)\
+Trainable quantum attack circuits (QCL and the proposed \*\*Q-BAC\*\*) against the BBM92 protocol with Eve on \*\*both arms\*\* of the entangled source. Benchmarked against the Phase-Covariant Cloning Machine across a 30-condition noise grid, with a causal test of where the attack's gain comes from.\
+\
+\`Qiskit\` \`NumPy\` \`SciPy\` \`Quantum Cryptography\` \`QKD\`\
+\
+\### ⚛️ [PI-QGAT: Physics-Informed Quantum Graph Attention Network]\(https\://github.com/promihamid/REPO-NAME)\
+A \*\*144-parameter\*\* hybrid quantum–classical graph neural network for muon transverse-momentum regression on CMS trigger data. Reaches \*\*R² = 0.84\*\* on 707k test events at under 4 µs per event, with an extensive ablation study of circuit design, entanglement, and graph architecture.\
+\
+\`JAX\` \`PennyLane\` \`Quantum Machine Learning\` \`Graph Neural Networks\` \`High-Energy Physics\`\
+\
+\---\
+\
+\## 🛠️ Tech Stack\
+\
+\*\*Quantum Computing\*\*\
+\
+![Qiskit]\(https\://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)\
+![PennyLane]\(https\://img.shields.io/badge/PennyLane-0A0A0A?style=for-the-badge&logo=xanadu&logoColor=white)\
+\
+\*\*Machine Learning & Scientific Computing\*\*\
+\
+![Python]\(https\://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)\
+![JAX]\(https\://img.shields.io/badge/JAX-A8B9CC?style=for-the-badge&logo=google&logoColor=black)\
+![PyTorch]\(https\://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)\
+![TensorFlow]\(https\://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)\
+![scikit-learn]\(https\://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)\
+![NumPy]\(https\://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)\
+![SciPy]\(https\://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)\
+![Pandas]\(https\://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)\
+\
+\*\*Programming Languages\*\*\
+\
+![C]\(https\://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)\
+![C++]\(https\://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)\
+![Java]\(https\://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)\
+\
+\*\*Web & Databases\*\*\
+\
+![HTML5]\(https\://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)\
+![CSS3]\(https\://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)\
+![Bootstrap]\(https\://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)\
+![Vue.js]\(https\://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)\
+![Node.js]\(https\://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)\
+![MySQL]\(https\://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)\
+![PostgreSQL]\(https\://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)\
+\
+\---\
+\--this is my readme content
