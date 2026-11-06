@@ -1,23 +1,86 @@
-<h1 align="center">Hi 👋, I'm Promi</h1>
-<h3 align="center">A passionate Quantum Computing and Quantum Machine Learning enthusiast, exploring quantum communication, quantum algorithms, and AI-driven research.</h3>
+<h1 align="center">Hi, I'm Promi 👋</h1>
+<h3 align="center">Quantum Computing & Quantum Machine Learning Researcher</h3>
 
-- 🔭 I’m currently working on **Quantum Computing, Quantum Machine Learning, and Quantum Key Distribution (QKD).**
-
-- 👯 I’m looking to collaborate on **Quantum Computing, Quantum Communication, and AI/ML research projects.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/promihamid](https://github.com/promihamid)
-
-- 📫 How to reach me **nurbinteehamid@gmail.com**
-
-- ⚡ Fun fact **I enjoy coffee, travelling, and discovering new places.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/nurjahanbinthamid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nurjahanbinthamid" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/promi_nh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="promi_nh" height="30" width="40" /></a>
+<p align="center">
+  Exploring quantum communication, variational quantum algorithms, and hybrid quantum–classical machine learning.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:nurbinteehamid@gmail.com"><img src="https://img.shields.io/badge/Email-nurbinteehamid%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://kaggle.com/nurjahanbinthamid"><img src="https://img.shields.io/badge/Kaggle-nurjahanbinthamid-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://codeforces.com/profile/promi_nh"><img src="https://img.shields.io/badge/Codeforces-promi__nh-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=promihamid&show_icons=true&locale=en&layout=compact" alt="promihamid" /></p>
+---
+
+## 🧑‍🔬 About Me
+
+- 🔭 I work on **Quantum Computing, Quantum Machine Learning, and Quantum Key Distribution (QKD)**.
+- 🔐 My research studies how **learned quantum circuits** behave in quantum cryptography and physics applications, and when they truly outperform classical or analytical baselines.
+- 👯 I'm open to collaboration on **quantum computing, quantum communication, and AI/ML research**.
+- ⚡ Outside research, I enjoy coffee, travelling, and discovering new places.
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 [Learned Eavesdropping on Entanglement-Based QKD](https://github.com/promihamid/REPO-NAME)
+Trainable quantum attack circuits (QCL and the proposed **Q-BAC**) against the BBM92 protocol with Eve on **both arms** of the entangled source. Benchmarked against the Phase-Covariant Cloning Machine across a 30-condition noise grid, with a causal test of where the attack's gain comes from.
+
+`Qiskit` `NumPy` `SciPy` `Quantum Cryptography` `QKD`
+
+### ⚛️ [PI-QGAT: Physics-Informed Quantum Graph Attention Network](https://github.com/promihamid/REPO-NAME)
+A **144-parameter** hybrid quantum–classical graph neural network for muon transverse-momentum regression on CMS trigger data. Reaches **R² = 0.84** on 707k test events at under 4 µs per event, with an extensive ablation study of circuit design, entanglement, and graph architecture.
+
+`JAX` `PennyLane` `Quantum Machine Learning` `Graph Neural Networks` `High-Energy Physics`
+
+---
+
+## 🛠️ Tech Stack
+
+**Quantum Computing**
+
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-0A0A0A?style=for-the-badge&logo=xanadu&logoColor=white)
+
+**Machine Learning & Scientific Computing**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-A8B9CC?style=for-the-badge&logo=google&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Programming Languages**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Web & Databases**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=promihamid&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=promihamid&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Exploring what quantum computers can learn, and what they can't."</i>
+</p>
