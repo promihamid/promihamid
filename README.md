@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:17151D,50:30283B,100:766487&height=190&section=header&text=Hi,%20I'm%20Promi%20%F0%9F%91%8B&fontSize=38&fontColor=E8E0EF&fontAlignY=40&desc=Quantum%20Computing%20%7C%20Quantum%20Machine%20Learning&descAlignY=62&descSize=15" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09080D,50:191421,100:30203D&height=190&section=header&text=Hi,%20I'm%20Promi%20%F0%9F%91%8B&fontSize=38&fontColor=E5DCEC&fontAlignY=40&desc=Quantum%20Computing%20%7C%20Quantum%20Machine%20Learning&descAlignY=62&descSize=15" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=AA96BD&center=true&vCenter=true&width=650&lines=Exploring+Quantum+Computing;Quantum+Communication+%26+QML;Building+Hybrid+Quantum-Classical+Models" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9B83B5&center=true&vCenter=true&width=650&lines=Exploring+Quantum+Computing;Quantum+Communication+%26+QML;Building+Hybrid+Quantum-Classical+Models" />
 </div>
 
 <div align="center">
   <p>Exploring quantum communication, variational quantum algorithms, and hybrid quantum–classical machine learning.</p>
-  <a href="mailto:nurbinteehamid@gmail.com"><img src="https://img.shields.io/badge/Email-51445F?style=flat-square&logo=gmail&logoColor=E8E0EF" /></a>
-  <a href="https://kaggle.com/nurjahanbinthamid"><img src="https://img.shields.io/badge/Kaggle-51445F?style=flat-square&logo=kaggle&logoColor=E8E0EF" /></a>
-  <a href="https://codeforces.com/profile/promi_nh"><img src="https://img.shields.io/badge/Codeforces-51445F?style=flat-square&logo=codeforces&logoColor=E8E0EF" /></a>
+  <a href="mailto:nurbinteehamid@gmail.com"><img src="https://img.shields.io/badge/Email-211A2B?style=flat-square&logo=gmail&logoColor=BBA9D0" /></a>
+  <a href="https://kaggle.com/nurjahanbinthamid"><img src="https://img.shields.io/badge/Kaggle-211A2B?style=flat-square&logo=kaggle&logoColor=BBA9D0" /></a>
+  <a href="https://codeforces.com/profile/promi_nh"><img src="https://img.shields.io/badge/Codeforces-211A2B?style=flat-square&logo=codeforces&logoColor=BBA9D0" /></a>
 </div>
 
 ---
@@ -46,51 +46,51 @@ A **144-parameter** hybrid quantum–classical graph neural network for muon tra
 **Quantum Computing**
 
 <div>
-  <img src="https://img.shields.io/badge/Qiskit-51445F?style=for-the-badge&logo=qiskit&logoColor=E8E0EF" />
-  <img src="https://img.shields.io/badge/PennyLane-51445F?style=for-the-badge&logo=xanadu&logoColor=E8E0EF" />
+  <img src="https://img.shields.io/badge/Qiskit-191421?style=for-the-badge&logo=qiskit&logoColor=BBA9D0" />
+  <img src="https://img.shields.io/badge/PennyLane-191421?style=for-the-badge&logo=xanadu&logoColor=BBA9D0" />
 </div>
 
 **Machine Learning & Scientific Computing**
 
 <div>
-  <img src="https://img.shields.io/badge/Python-51445F?style=for-the-badge&logo=python&logoColor=E8E0EF" />
-  <img src="https://img.shields.io/badge/JAX-51445F?style=for-the-badge&logo=google&logoColor=E8E0EF" />
-  <img src="https://img.shields.io/badge/PyTorch-51445F?style=for-the-badge&logo=pytorch&logoColor=E8E0EF" />
-  <img src="https://img.shields.io/badge/TensorFlow-51445F?style=for-the-badge&logo=tensorflow&logoColor=E8E0EF" />
-  <img src="https://img.shields.io/badge/scikit--learn-51445F?style=for-the-badge&logo=scikitlearn&logoColor=E8E0EF" />
-  <img src="https://img.shields.io/badge/NumPy-51445F?style=for-the-badge&logo=numpy&logoColor=E8E0EF" />
-  <img src="https://img.shields.io/badge/SciPy-51445F?style=for-the-badge&logo=scipy&logoColor=E8E0EF" />
-  <img src="https://img.shields.io/badge/Pandas-51445F?style=for-the-badge&logo=pandas&logoColor=E8E0EF" />
+  <img src="https://img.shields.io/badge/Python-191421?style=for-the-badge&logo=python&logoColor=BBA9D0" />
+  <img src="https://img.shields.io/badge/JAX-191421?style=for-the-badge&logo=google&logoColor=BBA9D0" />
+  <img src="https://img.shields.io/badge/PyTorch-191421?style=for-the-badge&logo=pytorch&logoColor=BBA9D0" />
+  <img src="https://img.shields.io/badge/TensorFlow-191421?style=for-the-badge&logo=tensorflow&logoColor=BBA9D0" />
+  <img src="https://img.shields.io/badge/scikit--learn-191421?style=for-the-badge&logo=scikitlearn&logoColor=BBA9D0" />
+  <img src="https://img.shields.io/badge/NumPy-191421?style=for-the-badge&logo=numpy&logoColor=BBA9D0" />
+  <img src="https://img.shields.io/badge/SciPy-191421?style=for-the-badge&logo=scipy&logoColor=BBA9D0" />
+  <img src="https://img.shields.io/badge/Pandas-191421?style=for-the-badge&logo=pandas&logoColor=BBA9D0" />
 </div>
 
 **Programming Languages**
 
 <div>
-  <img src="https://img.shields.io/badge/C-51445F?style=for-the-badge&logo=c&logoColor=E8E0EF" />
-  <img src="https://img.shields.io/badge/C++-51445F?style=for-the-badge&logo=cplusplus&logoColor=E8E0EF" />
-  <img src="https://img.shields.io/badge/Java-51445F?style=for-the-badge&logo=openjdk&logoColor=E8E0EF" />
+  <img src="https://img.shields.io/badge/C-191421?style=for-the-badge&logo=c&logoColor=BBA9D0" />
+  <img src="https://img.shields.io/badge/C++-191421?style=for-the-badge&logo=cplusplus&logoColor=BBA9D0" />
+  <img src="https://img.shields.io/badge/Java-191421?style=for-the-badge&logo=openjdk&logoColor=BBA9D0" />
 </div>
 
 **Web & Databases**
 
 <div>
-  <img src="https://img.shields.io/badge/HTML5-51445F?style=for-the-badge&logo=html5&logoColor=E8E0EF" />
-  <img src="https://img.shields.io/badge/CSS3-51445F?style=for-the-badge&logo=css3&logoColor=E8E0EF" />
-  <img src="https://img.shields.io/badge/Bootstrap-51445F?style=for-the-badge&logo=bootstrap&logoColor=E8E0EF" />
-  <img src="https://img.shields.io/badge/Vue.js-51445F?style=for-the-badge&logo=vuedotjs&logoColor=E8E0EF" />
-  <img src="https://img.shields.io/badge/Node.js-51445F?style=for-the-badge&logo=nodedotjs&logoColor=E8E0EF" />
-  <img src="https://img.shields.io/badge/MySQL-51445F?style=for-the-badge&logo=mysql&logoColor=E8E0EF" />
-  <img src="https://img.shields.io/badge/PostgreSQL-51445F?style=for-the-badge&logo=postgresql&logoColor=E8E0EF" />
+  <img src="https://img.shields.io/badge/HTML5-191421?style=for-the-badge&logo=html5&logoColor=BBA9D0" />
+  <img src="https://img.shields.io/badge/CSS3-191421?style=for-the-badge&logo=css3&logoColor=BBA9D0" />
+  <img src="https://img.shields.io/badge/Bootstrap-191421?style=for-the-badge&logo=bootstrap&logoColor=BBA9D0" />
+  <img src="https://img.shields.io/badge/Vue.js-191421?style=for-the-badge&logo=vuedotjs&logoColor=BBA9D0" />
+  <img src="https://img.shields.io/badge/Node.js-191421?style=for-the-badge&logo=nodedotjs&logoColor=BBA9D0" />
+  <img src="https://img.shields.io/badge/MySQL-191421?style=for-the-badge&logo=mysql&logoColor=BBA9D0" />
+  <img src="https://img.shields.io/badge/PostgreSQL-191421?style=for-the-badge&logo=postgresql&logoColor=BBA9D0" />
 </div>
 
 ---
 
 <div align="center">
   <h3>📊 GitHub Statistics</h3>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=promihamid&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=promihamid&layout=compact&theme=dracula&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=promihamid&show_icons=true&bg_color=09080D&title_color=B49BCB&text_color=C9C2D2&icon_color=8F73AC&border_color=292333&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=promihamid&layout=compact&bg_color=09080D&title_color=B49BCB&text_color=C9C2D2&border_color=292333&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=promihamid&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=promihamid&theme=dark&background=09080D&ring=8F73AC&fire=B49BCB&currStreakLabel=B49BCB&sideLabels=C9C2D2&hide_border=true" />
 </div>
 
 ---
@@ -98,5 +98,5 @@ A **144-parameter** hybrid quantum–classical graph neural network for muon tra
 <div align="center">
   <i>Always curious, always learning, always exploring. ✨</i>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:766487,50:30283B,100:17151D&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:30203D,50:191421,100:09080D&height=100&section=footer" width="100%" />
 </div>
