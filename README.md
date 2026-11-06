@@ -14,11 +14,11 @@
 ---
 ## 🧑‍🔬 About Me
 
-- 🧠 I work across **Machine Learning, Deep Learning, and Quantum Computing**, with a focus on hybrid models that combine the two.
+- 🧠 I work across **Machine Learning, Deep Learning, and Quantum Computing** with a focus on hybrid models that combine the two.
 - 📈 I enjoy designing compact, efficient deep learning models that perform well with limited resources.
-- 🔐 I also explore **quantum cryptography** and **quantum machine learning**, including quantum key distribution protocols, attack strategies, and hybrid quantum–classical neural networks.
-- 👯 I'm open to collaboration on **AI/ML, deep learning, and quantum research** projects.
-- ⚡ Outside research, I enjoy coffee, travelling, and discovering new places.
+- 🔐 I also explore **quantum cryptography** and **quantum machine learning**, including quantum key distribution protocols, attack strategies and hybrid quantum–classical neural networks.
+- 👯 I'm open to collaboration on **AI/ML, deep learning and quantum research** projects.
+- ⚡ Outside research, I enjoy coffee, travelling and discovering new places.
 
 ---
 
