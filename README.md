@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Promi 👋</h1>
+<h1 align="center">Hi, I'm Promi </h1>
 <h3 align="center">Quantum Computing & Quantum Machine Learning Researcher</h3>
 
 <p align="center">
@@ -71,14 +71,3 @@ A **144-parameter** hybrid quantum–classical graph neural network for muon tra
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-
-
-  <img src="https://github-readme-stats.vercel.app/api?username=promihamid&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=promihamid&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165"/>
-</p>
-
----
-
-<p align="center">
-  <i>"Exploring what quantum computers can learn, and what they can't."</i>
-</p>
