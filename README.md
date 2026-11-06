@@ -15,7 +15,7 @@
 ## 🧑‍🔬 About Me
 
 - 🧠 I work across **Machine Learning, Deep Learning, and Quantum Computing**, with a focus on hybrid models that combine the two.
-- 📈 I enjoy designing compact, efficient neural networks and testing them with careful ablation studies.
+- 📈 I enjoy designing compact, efficient deep learning models that perform well with limited resources.
 - 🔐 On the quantum side, I study **quantum cryptography (QKD)** and **variational circuits** asking when learned models truly outperform classical or analytical baselines.
 - 👯 I'm open to collaboration on **AI/ML, deep learning, and quantum research** projects.
 - ⚡ Outside research, I enjoy coffee, travelling, and discovering new places.
