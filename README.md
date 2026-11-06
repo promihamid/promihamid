@@ -72,9 +72,7 @@ A **144-parameter** hybrid quantum–classical graph neural network for muon tra
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=promihamid&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=promihamid&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165"/>
 </p>
