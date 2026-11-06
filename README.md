@@ -12,12 +12,12 @@
 </p>
 
 ---
-
 ## 🧑‍🔬 About Me
 
-- 🔭 I work on **Quantum Computing, Quantum Machine Learning, and Quantum Key Distribution (QKD)**.
-- 🔐 My research studies how **learned quantum circuits** behave in quantum cryptography and physics applications, and when they truly outperform classical or analytical baselines.
-- 👯 I'm open to collaboration on **quantum computing, quantum communication, and AI/ML research**.
+- 🧠 I work across **Machine Learning, Deep Learning, and Quantum Computing**, with a focus on hybrid models that combine the two.
+- 📈 I enjoy designing compact, efficient neural networks and testing them with careful ablation studies.
+- 🔐 On the quantum side, I study **quantum cryptography (QKD)** and **variational circuits** asking when learned models truly outperform classical or analytical baselines.
+- 👯 I'm open to collaboration on **AI/ML, deep learning, and quantum research** projects.
 - ⚡ Outside research, I enjoy coffee, travelling, and discovering new places.
 
 ---
