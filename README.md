@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Promi </h1>
+<h1 align="center">Hi, I'm Promi 👋</h1>
 <h3 align="center">Quantum Computing & Quantum Machine Learning Researcher</h3>
 
 <p align="center">
