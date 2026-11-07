@@ -27,13 +27,15 @@
 
 ## 🚀 Featured Projects
 
-### 🔐 [Learned Eavesdropping on Entanglement-Based QKD](https://github.com/promihamid/REPO-NAME)
+### 🔐 [Learned Eavesdropping on Entanglement-Based QKD](https://github.com/promihamid/qkd-qbac)
+
 Trainable quantum attack circuits (QCL and the proposed **Q-BAC**) against the BBM92 protocol with Eve on **both arms** of the entangled source. Benchmarked against the Phase-Covariant Cloning Machine across a 30-condition noise grid, with a causal test of where the attack's gain comes from.
 
 `Qiskit` `NumPy` `SciPy` `Quantum Cryptography` `QKD`
 
-### ⚛️ [PI-QGAT: Physics-Informed Quantum Graph Attention Network](https://github.com/promihamid/REPO-NAME)
-A **144-parameter** hybrid quantum–classical graph neural network for muon transverse-momentum regression on CMS trigger data. Reaches **R² = 0.84** on 707k test events at under 4 µs per event, with an extensive ablation study of circuit design, entanglement, and graph architecture.
+### ⚛️ [PI-QGAT: Physics-Informed Quantum Graph Attention Network](https://github.com/promihamid/piqgata)
+
+A **144-parameter** hybrid quantum–classical graph neural network for muon transverse-momentum regression on CMS trigger data. Reaches **R² = 0.84** on 707k test events at under 4 μs per event, with an extensive ablation study of circuit design, entanglement, and graph architecture.
 
 `JAX` `PennyLane` `Deep Learning` `Graph Neural Networks` `High-Energy Physics`
 
