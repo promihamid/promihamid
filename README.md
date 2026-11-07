@@ -73,11 +73,4 @@ A **144-parameter** hybrid quantum–classical graph neural network for muon tra
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=promihamid&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=promihamid&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165"/>
-</p>
