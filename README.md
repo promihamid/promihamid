@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning & Quantum Computing Researcher</h3>
 
 <p align="center">
-  Building deep learning models, and exploring where quantum circuits can make them better.
+  Building deep learning models and exploring where quantum circuits can make them better.
 </p>
 
 <p align="center">
