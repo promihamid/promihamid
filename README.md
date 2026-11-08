@@ -39,6 +39,12 @@ A **144-parameter** hybrid quantum–classical graph neural network for muon tra
 
 `JAX` `PennyLane` `Deep Learning` `Graph Neural Networks` `High-Energy Physics`
 
+### 🦟 [Dengue Severity & NS1 Classification: ML vs Transformers](https://github.com/promihamid/Dengue_severity)
+
+Dengue severity and NS1 classification on clinical and hematological records from a Dhaka hospital, using two pathways: tabular ML and clinical language models on text versions of the same records. **Random Forest** reaches **99.04%** accuracy on 3-class severity, and **BioBERT** reaches **0.84 ROC-AUC** on NS1. The ML pipeline avoids data leakage: preprocessing and SMOTE are fit on training data only. *(ICCIT 2026)*
+
+`scikit-learn` `XGBoost` `Hugging Face Transformers` `BioBERT` `ClinicalBERT` `Healthcare AI`
+
 ---
 
 ## 🛠️ Tech Stack
